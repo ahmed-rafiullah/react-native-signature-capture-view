@@ -1,6 +1,6 @@
 {
   "name": "react-native-signature-capture-view",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A webview wrapper around signaturepad.js",
   "main": "index.js",
   "scripts": {
