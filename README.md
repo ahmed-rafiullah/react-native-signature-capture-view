@@ -18,15 +18,17 @@ Made this component for a client project. Decided to open source it since its al
  
 
 
- <img src="./images/ios.gif" alt="drawing" />
 
-  <img src="./images/android.gif" alt="drawing"/>
+<img src="https://github.com/AhmedKhattak/react-native-signature-capture-view/blob/master/images/ios.gif?raw=true" alt="drawing" height="500"/>
+
+  
 
 
+ <img src="https://github.com/AhmedKhattak/react-native-signature-capture-view/blob/master/images/android.gif?raw=true" alt="drawing" height="500" />
 
 ##### Snack
-<div data-snack-id="@khattakahmed/react-native-signature-capture-view" data-snack-platform="ios" data-snack-preview="true" data-snack-theme="dark" style="overflow:hidden;background:#212121;border:1px solid var(--color-border);border-radius:4px;height:505px;width:100%"></div>
-<script async src="https://snack.expo.io/embed.js"></script>
+https://snack.expo.io/@khattakahmed/react-native-signature-capture-view
+
 
 
 ##### Important
