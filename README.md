@@ -43,7 +43,8 @@ Requires peer dependency with [react-native-webview](https://www.npmjs.com/packa
 
 Take a look in the examples folder as well.
 
-```import React, {useRef, useState} from 'react';
+```javascript
+import React, {useRef, useState} from 'react';
 import {SafeAreaView, StatusBar, TouchableOpacity, Text, ScrollView, View} from 'react-native';
 import {SignatureView} from 'react-native-signature-capture-view';
 
