@@ -1,0 +1,38 @@
+{
+  "name": "react-native-signature-capture-view",
+  "version": "1.0.0",
+  "description": "A webview wrapper around signaturepad.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AhmedKhattak/react-native-signature-capture-view.gitgit"
+  },
+  "keywords": [
+    "react-native",
+    "react-component",
+    "react-native-component",
+    "react",
+    "react native",
+    "mobile",
+    "ios",
+    "android",
+    "ui",
+    "signature-pad.js",
+    "signature-view"
+  ],
+  "bugs": {
+    "url": "https://github.com/AhmedKhattak/react-native-signature-capture-view.git/issues"
+  },
+  "homepage": "https://github.com/AhmedKhattak/react-native-signature-capture-view.git#readme",
+  "author": "Ahmed Rafiullah",
+  "license": "MIT",
+  "devDependencies": {
+    "metro-react-native-babel-preset": "^0.64.0"
+  },
+  "peerDependencies": {
+    "react-native-webview": "^10.9.1"
+  }
+}
