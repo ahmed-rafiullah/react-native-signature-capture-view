@@ -19,6 +19,7 @@ const App = () => {
           // onSave is automatically called whenever signature-pad onEnd is called and saveSignature is called
           onSave={(val) => {
             //  a base64 encoded image
+            console.log('saved signature')
             console.log(val);
             setText(val)
            
